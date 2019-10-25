@@ -1,0 +1,11 @@
+{
+  "name": "com.seanlib.actionlist",
+  "displayName": "SeanLib.actionList",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "EditorPlus",
+    "Core"
+  ],
+  "category": "Core"
+}
